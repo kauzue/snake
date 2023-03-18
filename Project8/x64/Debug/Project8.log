@@ -1,0 +1,10 @@
+﻿  setting.c
+C:\Users\BIT\source\repos\Project8\Project8\setting.c(42,57): warning C4311: '형식 캐스트': 'void *'에서 'uint32_t'(으)로 포인터가 잘립니다.
+C:\Users\BIT\source\repos\Project8\Project8\setting.c(42,57): warning C4047: '=': 'uint32_t *'의 간접 참조 수준이 'uint32_t'과(와) 다릅니다.
+C:\Users\BIT\source\repos\Project8\Project8\setting.c(43,57): warning C4311: '형식 캐스트': 'void *'에서 'uint32_t'(으)로 포인터가 잘립니다.
+C:\Users\BIT\source\repos\Project8\Project8\setting.c(43,57): warning C4047: '=': 'uint32_t *'의 간접 참조 수준이 'uint32_t'과(와) 다릅니다.
+C:\Users\BIT\source\repos\Project8\Project8\setting.c(52,2): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+C:\Users\BIT\source\repos\Project8\Project8\setting.c(54,16): warning C4087: 'rand': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
+C:\Users\BIT\source\repos\Project8\Project8\setting.c(55,16): warning C4087: 'rand': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
+C:\Users\BIT\source\repos\Project8\Project8\setting.c(36,30): warning C4244: '초기화 중': 'float'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BIT\source\repos\Project8\Project8\setting.c(37,23): warning C4244: '초기화 중': 'float'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
