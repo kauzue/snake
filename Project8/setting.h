@@ -1,8 +1,11 @@
 #pragma once
 
+#include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <string.h>
+#include <conio.h>
 #pragma warning(disable:4996)
 
 typedef enum state {
@@ -23,3 +26,5 @@ typedef enum direction {
 bool InitSnake();
 void UpdateSnake();
 void DrawSnake();
+
+void MakeFruit();

@@ -4,5 +4,6 @@ int main(void)
 {
 	InitSnake();
 	UpdateSnake();
+	UpdateSnake();
 	DrawSnake();
 }
