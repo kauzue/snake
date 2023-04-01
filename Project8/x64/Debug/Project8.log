@@ -1,0 +1,6 @@
+﻿  setting.c
+C:\Users\kauzu\Downloads\snake-main\Project8\setting.c(39,21): warning C4244: '=': 'float'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kauzu\Downloads\snake-main\Project8\setting.c(40,14): warning C4244: '=': 'float'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kauzu\Downloads\snake-main\Project8\setting.c(220,8): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\kauzu\Downloads\snake-main\Project8\setting.c(235,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project8.vcxproj -> C:\Users\kauzu\Downloads\snake-main\x64\Debug\Project8.exe
